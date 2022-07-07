@@ -11,7 +11,7 @@ the vault address on likecoin testnet is [like1ehy54c765lfyqrpurrtdsssks30gsjx9t
 
 + float number and integer exchange is not accurate.
 
-+ due to RPC problem, the result of sending wrap like to likecoin testnet chain may not show on frontend, no matter it is success or not.
++ due to RPC problem, the result of sending wrap like to likecoin testnet chain may return error, no matter it is success or not.
 
 + frontend is not finish yet.
 
