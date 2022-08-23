@@ -1,8 +1,0 @@
-[database] 2022-08-23 10:44:08,601 - INFO - [evm] add new tx, to_contract_txid: 0x35238b53fabea12eda0268b87527898985a1a4308c02d46faac707ea2e7412c0
-[database] 2022-08-23 10:44:15,152 - INFO - [evm] 1 tx(s) updated. to_contract_txid: 0x35238b53fabea12eda0268b87527898985a1a4308c02d46faac707ea2e7412c0, status: finish
-[database] 2022-08-23 10:50:20,325 - INFO - [evm] add new tx, to_contract_txid: 0xc009ab4e7490cc63e9a1f12617f37fa2a783c1ee916289c3ac9b48f91e52728d
-[database] 2022-08-23 10:50:28,993 - INFO - [evm] 1 tx(s) updated. to_contract_txid: 0xc009ab4e7490cc63e9a1f12617f37fa2a783c1ee916289c3ac9b48f91e52728d, status: finish
-[database] 2022-08-23 12:21:00,569 - INFO - [evm] add new tx, to_contract_txid: 0x105829c46cc904bb14f23aef9ef69834d79d69fff5a3522fb0c7e4980aaaf973
-[database] 2022-08-23 12:21:13,509 - INFO - [evm] 1 tx(s) updated. to_contract_txid: 0x105829c46cc904bb14f23aef9ef69834d79d69fff5a3522fb0c7e4980aaaf973, status: finish
-[database] 2022-08-23 12:22:48,779 - INFO - [evm] add new tx, to_contract_txid: 0x1652c0829975e4b1f980d5adb55272af5587cbd90fd3c0cae01db498b84f17c0
-[database] 2022-08-23 12:22:53,182 - INFO - [evm] 1 tx(s) updated. to_contract_txid: 0x1652c0829975e4b1f980d5adb55272af5587cbd90fd3c0cae01db498b84f17c0, status: finish
