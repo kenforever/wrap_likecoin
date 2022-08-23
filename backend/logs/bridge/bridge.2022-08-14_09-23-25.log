@@ -1,0 +1,93 @@
+[bridge] 2022-08-14 06:21:39,666 - ERROR - bridge error: likecoin to evm.
+[bridge] 2022-08-14 06:21:39,666 - ERROR - error message:name 'evm_logger' is not defined
+[bridge] 2022-08-14 06:22:26,705 - ERROR - evm mint error. txid: 691DF965F2AE8E659A496F61F2D3ACA621B8DA38A4DD1C23EA0D2F74FA2EB737
+[bridge] 2022-08-14 06:22:26,705 - ERROR - evm mint error. tx info: {'status': 'failure', 'message': "{'code': -32000, 'message': 'already known'}"}
+[bridge] 2022-08-14 06:23:35,842 - INFO - this txid has been mint. txid: 691DF965F2AE8E659A496F61F2D3ACA621B8DA38A4DD1C23EA0D2F74FA2EB737
+[bridge] 2022-08-14 06:30:34,052 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 06:30:34,204 - DEBUG - send check: checked
+[bridge] 2022-08-14 06:30:34,205 - ERROR - likecoin send error. txid: 0x796a65fdbe9e35ae125f9f95cdf6371531edd95a0b60da53ed19140faadca10a
+[bridge] 2022-08-14 06:30:34,205 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': NameError("name 'Transaction' is not defined")}
+[bridge] 2022-08-14 06:31:28,941 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 06:31:29,046 - DEBUG - send check: checked
+[bridge] 2022-08-14 06:31:44,668 - ERROR - likecoin send error. txid: 0x796a65fdbe9e35ae125f9f95cdf6371531edd95a0b60da53ed19140faadca10a
+[bridge] 2022-08-14 06:31:44,669 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': QueryTimeoutError()}
+[bridge] 2022-08-14 06:33:31,575 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 06:33:31,727 - DEBUG - send check: checked
+[bridge] 2022-08-14 06:33:38,639 - ERROR - likecoin send error. txid: 0x796a65fdbe9e35ae125f9f95cdf6371531edd95a0b60da53ed19140faadca10a
+[bridge] 2022-08-14 06:33:38,640 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': AttributeError("'SubmittedTx' object has no attribute 'hash'")}
+[bridge] 2022-08-14 06:34:04,436 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 06:34:04,536 - DEBUG - send check: checked
+[bridge] 2022-08-14 06:34:13,737 - ERROR - likecoin send error. txid: 0x796a65fdbe9e35ae125f9f95cdf6371531edd95a0b60da53ed19140faadca10a
+[bridge] 2022-08-14 06:34:13,737 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': "'SubmittedTx' object has no attribute 'hash'"}
+[bridge] 2022-08-14 06:34:33,054 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 06:34:33,132 - DEBUG - send check: checked
+[bridge] 2022-08-14 06:34:48,718 - ERROR - likecoin send error. txid: 0x796a65fdbe9e35ae125f9f95cdf6371531edd95a0b60da53ed19140faadca10a
+[bridge] 2022-08-14 06:34:48,719 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': ''}
+[bridge] 2022-08-14 06:37:18,192 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 06:37:18,347 - DEBUG - send check: checked
+[bridge] 2022-08-14 06:37:34,265 - ERROR - likecoin send error. txid: 0x796a65fdbe9e35ae125f9f95cdf6371531edd95a0b60da53ed19140faadca10a
+[bridge] 2022-08-14 06:37:34,265 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': ''}
+[bridge] 2022-08-14 06:38:51,736 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 06:38:51,885 - DEBUG - send check: checked
+[bridge] 2022-08-14 06:39:05,468 - ERROR - likecoin send error. txid: 0x796a65fdbe9e35ae125f9f95cdf6371531edd95a0b60da53ed19140faadca10a
+[bridge] 2022-08-14 06:39:05,468 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': "'str' object is not callable"}
+[bridge] 2022-08-14 06:39:50,738 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 06:39:50,844 - DEBUG - send check: checked
+[bridge] 2022-08-14 06:40:06,430 - ERROR - likecoin send error. txid: 0x796a65fdbe9e35ae125f9f95cdf6371531edd95a0b60da53ed19140faadca10a
+[bridge] 2022-08-14 06:40:06,431 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': ''}
+[bridge] 2022-08-14 06:41:58,525 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 06:41:58,679 - DEBUG - send check: checked
+[bridge] 2022-08-14 06:42:12,133 - INFO - likecoin send success. txid: 0A0E78F5AB5902A5F36CA5CB739A998F9E85B4EB81CE49F32594BED1C1A7B465
+[bridge] 2022-08-14 06:59:13,169 - DEBUG - debug message
+[bridge] 2022-08-14 06:59:13,171 - INFO - info message
+[bridge] 2022-08-14 06:59:13,171 - WARNING - warning message
+[bridge] 2022-08-14 06:59:13,172 - ERROR - error message
+[bridge] 2022-08-14 06:59:13,172 - CRITICAL - critical message
+[bridge] 2022-08-14 07:51:24,863 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 07:51:25,079 - DEBUG - send check: checked
+[bridge] 2022-08-14 07:51:25,832 - ERROR - likecoin send error. txid: 0x796a65fdbe9e35ae125f9f95cdf6371531edd95a0b60da53ed19140faadca10a
+[bridge] 2022-08-14 07:51:25,833 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': "add_tx_evm_to_like() missing 1 required positional argument: 'evm_address'"}
+[bridge] 2022-08-14 07:52:10,211 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 07:52:10,317 - DEBUG - send check: checked
+[bridge] 2022-08-14 07:52:25,933 - ERROR - likecoin send error. txid: 0x796a65fdbe9e35ae125f9f95cdf6371531edd95a0b60da53ed19140faadca10a
+[bridge] 2022-08-14 07:52:25,933 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': ''}
+[bridge] 2022-08-14 07:53:19,515 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 07:53:19,568 - DEBUG - send check: checked
+[bridge] 2022-08-14 07:53:27,187 - ERROR - likecoin send error. txid: 0x796a65fdbe9e35ae125f9f95cdf6371531edd95a0b60da53ed19140faadca10a
+[bridge] 2022-08-14 07:53:27,187 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': "name 'update_tx_status_evm_to_like' is not defined"}
+[bridge] 2022-08-14 07:54:05,354 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 07:54:05,420 - DEBUG - send check: checked
+[bridge] 2022-08-14 07:54:18,942 - INFO - likecoin send success. txid: F12D243E228BC52DE3FBD5BFEDD5AAA45CED48A1140AD3D9E162C7FC0508999C
+[bridge] 2022-08-14 08:42:59,124 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 08:42:59,125 - ERROR - bridge error: evm to likecoin.
+[bridge] 2022-08-14 08:42:59,125 - ERROR - error message:name 'database' is not defined
+[bridge] 2022-08-14 08:42:59,614 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 08:42:59,614 - ERROR - bridge error: evm to likecoin.
+[bridge] 2022-08-14 08:42:59,614 - ERROR - error message:name 'database' is not defined
+[bridge] 2022-08-14 08:43:18,358 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 08:43:18,384 - DEBUG - send check: checked
+[bridge] 2022-08-14 08:43:18,877 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 08:43:18,880 - DEBUG - send check: checked
+[bridge] 2022-08-14 08:43:18,976 - ERROR - likecoin send error. txid: 0x1d47b5e1f79de6addea25998d0854b0314bd6f2e8f9b97630b6558f24937014d
+[bridge] 2022-08-14 08:43:18,976 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': "local variable 'tx_hash' referenced before assignment"}
+[bridge] 2022-08-14 08:43:19,151 - ERROR - likecoin send error. txid: 0x1d47b5e1f79de6addea25998d0854b0314bd6f2e8f9b97630b6558f24937014d
+[bridge] 2022-08-14 08:43:19,151 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': 'Error when sending a POST request.\n Request: {\'tx\': {\'body\': {\'messages\': [OrderedDict([(\'@type\', \'/cosmos.bank.v1beta1.MsgSend\'), (\'fromAddress\', \'like1ehy54c765lfyqrpurrtdsssks30gsjx9txzh2x\'), (\'toAddress\', \'like1teqq9gt4sczfyng3rly5cds4tfew28gauuxp3z\'), (\'amount\', [{\'denom\': \'nanoekil\', \'amount\': \'10000000000\'}])]), OrderedDict([(\'@type\', \'/cosmos.bank.v1beta1.MsgSend\'), (\'fromAddress\', \'like1ehy54c765lfyqrpurrtdsssks30gsjx9txzh2x\'), (\'toAddress\', \'like1ehy54c765lfyqrpurrtdsssks30gsjx9txzh2x\'), (\'amount\', [{\'denom\': \'nanoekil\', \'amount\': \'500000000\'}])])], \'memo\': \'0x1d47b5e1f79de6addea25998d0854b0314bd6f2e8f9b97630b6558f24937014d\'}, \'authInfo\': {\'signerInfos\': [{\'publicKey\': OrderedDict([(\'@type\', \'/cosmos.crypto.secp256k1.PubKey\'), (\'key\', \'Asdtsqdu4Vuj26UTKQf5xVIc9aN4ROXPI3zyBRbdN/Vh\')]), \'modeInfo\': {\'single\': {\'mode\': \'SIGN_MODE_DIRECT\'}}, \'sequence\': \'51\'}], \'fee\': {}}, \'signatures\': [\'HUh/Mi7gQglTgBowQ//+Kp8OHruQ9FpDFKonI/0R5cpQDaUN0UzqjuKrF07fVsha2umAzFvh6FY9dTevFtHX9w==\']}}\n Response: 400, b\'{\\n  "code": 3,\\n  "message": "account sequence mismatch, expected 52, got 51: incorrect account sequence: invalid request",\\n  "details": [\\n  ]\\n}\')'}
+[bridge] 2022-08-14 08:44:08,621 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 08:44:08,648 - DEBUG - send check: checked
+[bridge] 2022-08-14 08:44:09,410 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 08:44:09,413 - DEBUG - send check: checked
+[bridge] 2022-08-14 08:44:09,675 - ERROR - likecoin send error. txid: 0x1d47b5e1f79de6addea25998d0854b0314bd6f2e8f9b97630b6558f24937014d
+[bridge] 2022-08-14 08:44:09,676 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': 'Error when sending a POST request.\n Request: {\'tx\': {\'body\': {\'messages\': [OrderedDict([(\'@type\', \'/cosmos.bank.v1beta1.MsgSend\'), (\'fromAddress\', \'like1ehy54c765lfyqrpurrtdsssks30gsjx9txzh2x\'), (\'toAddress\', \'like1teqq9gt4sczfyng3rly5cds4tfew28gauuxp3z\'), (\'amount\', [{\'denom\': \'nanoekil\', \'amount\': \'10000000000\'}])]), OrderedDict([(\'@type\', \'/cosmos.bank.v1beta1.MsgSend\'), (\'fromAddress\', \'like1ehy54c765lfyqrpurrtdsssks30gsjx9txzh2x\'), (\'toAddress\', \'like1ehy54c765lfyqrpurrtdsssks30gsjx9txzh2x\'), (\'amount\', [{\'denom\': \'nanoekil\', \'amount\': \'500000000\'}])])], \'memo\': \'0x1d47b5e1f79de6addea25998d0854b0314bd6f2e8f9b97630b6558f24937014d\'}, \'authInfo\': {\'signerInfos\': [{\'publicKey\': OrderedDict([(\'@type\', \'/cosmos.crypto.secp256k1.PubKey\'), (\'key\', \'Asdtsqdu4Vuj26UTKQf5xVIc9aN4ROXPI3zyBRbdN/Vh\')]), \'modeInfo\': {\'single\': {\'mode\': \'SIGN_MODE_DIRECT\'}}, \'sequence\': \'52\'}], \'fee\': {}}, \'signatures\': [\'FhxC1t170kVG1y1N6y+dEnUne2i/JyPwLJN4avY30rYLxha42H+KKantEFh0cNC+aW4TJ+ErV/07I8yTRvb5Ag==\']}}\n Response: 400, b\'{\\n  "code": 3,\\n  "message": "account sequence mismatch, expected 53, got 52: incorrect account sequence: invalid request",\\n  "details": [\\n  ]\\n}\')'}
+[bridge] 2022-08-14 08:44:24,275 - INFO - likecoin send success. txid: DD6DC856C709721C22ECA2738F0D6C1754C5A90163C6F44CF05ACB9D1C216528
+[bridge] 2022-08-14 08:45:08,390 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 08:45:08,393 - DEBUG - send check: checked
+[bridge] 2022-08-14 08:45:19,583 - INFO - likecoin send success. txid: 87DAC271AEBD9287CCC7359BC3B87F6784A2EC97AA11CBCA796A88B8318A4EB2
+[bridge] 2022-08-14 08:53:29,716 - ERROR - evm mint error. txid: FBA5380DBABAAC7BF93DDAE1A7E6E3DC053B39AA0A46BD67315FBE6E6363BAC5
+[bridge] 2022-08-14 08:53:29,717 - ERROR - evm mint error. tx info: {'status': 'failure', 'message': "{'code': -32000, 'message': 'already known'}"}
+[bridge] 2022-08-14 08:53:34,614 - INFO - this txid has been mint. txid: FBA5380DBABAAC7BF93DDAE1A7E6E3DC053B39AA0A46BD67315FBE6E6363BAC5
+[bridge] 2022-08-14 09:22:45,777 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 09:22:55,234 - DEBUG - evm txid: checked
+[bridge] 2022-08-14 09:22:55,238 - DEBUG - send check: checked
+[bridge] 2022-08-14 09:23:10,892 - ERROR - likecoin send error. txid: 0x1d47b5e1f79de6addea25998d0854b0314bd6f2e8f9b97630b6558f24937014d
+[bridge] 2022-08-14 09:23:10,893 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': ''}
+[bridge] 2022-08-14 09:23:25,465 - DEBUG - evm txid: checked

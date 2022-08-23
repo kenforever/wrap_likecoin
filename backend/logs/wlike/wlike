@@ -1,0 +1,17 @@
+[wlike] 2022-08-23 10:39:35,084 - INFO - hi
+[wlike] 2022-08-23 10:43:18,716 - INFO - hi
+[wlike] 2022-08-23 10:44:07,507 - DEBUG - like_address: cosmos1vlcvna3aq06s7ezk7408mdm95y6seqz0p3k2s8
+[wlike] 2022-08-23 10:44:07,508 - DEBUG - liker_amount: 10.0
+[wlike] 2022-08-23 10:47:35,874 - INFO - hi
+[wlike] 2022-08-23 10:49:23,156 - ERROR - transaction check error: txid: 0xc009ab4e7490cc63e9a1f12617f37fa2a783c1ee916289c3ac9b48f91e52728d 
+[wlike] 2022-08-23 10:49:23,159 - ERROR - transaction check error: 'result'
+[wlike] 2022-08-23 10:50:19,682 - DEBUG - like_address: cosmos1vlcvna3aq06s7ezk7408mdm95y6seqz0p3k2s8
+[wlike] 2022-08-23 10:50:19,683 - DEBUG - liker_amount: 10.0
+[wlike] 2022-08-23 12:20:31,384 - DEBUG - like_address: cosmos1vlcvna3aq06s7ezk7408mdm95y6seqz0p3k2s8
+[wlike] 2022-08-23 12:20:31,387 - DEBUG - liker_amount: 10.0
+[wlike] 2022-08-23 12:21:00,115 - DEBUG - like_address: cosmos1vlcvna3aq06s7ezk7408mdm95y6seqz0p3k2s8
+[wlike] 2022-08-23 12:21:00,115 - DEBUG - liker_amount: 10.0
+[wlike] 2022-08-23 12:22:48,369 - DEBUG - like_address: cosmos1vlcvna3aq06s7ezk7408mdm95y6seqz0p3k2s8
+[wlike] 2022-08-23 12:22:48,370 - DEBUG - liker_amount: 10.0
+[wlike] 2022-08-23 12:26:20,564 - DEBUG - like_address: cosmos1vlcvna3aq06s7ezk7408mdm95y6seqz0p3k2s8
+[wlike] 2022-08-23 12:26:20,568 - DEBUG - liker_amount: 10.0

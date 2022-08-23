@@ -1,0 +1,17 @@
+[bridge] 2022-08-23 10:44:07,508 - DEBUG - evm txid: checked
+[bridge] 2022-08-23 10:44:07,605 - DEBUG - send check: checked
+[bridge] 2022-08-23 10:44:15,156 - INFO - likecoin send success. txid: E09FDEA2CBC75D11068242D2922708FD4B9E79FEDEB6D76CCA778ACFD025774B
+[bridge] 2022-08-23 10:50:19,684 - DEBUG - evm txid: checked
+[bridge] 2022-08-23 10:50:19,740 - DEBUG - send check: checked
+[bridge] 2022-08-23 10:50:28,995 - INFO - likecoin send success. txid: 41525CC32DC4D364C10648130DAFC3DE4378E4E4137DED9CCFCBC8C749C1228D
+[bridge] 2022-08-23 12:20:31,389 - DEBUG - evm txid: checked
+[bridge] 2022-08-23 12:20:31,395 - DEBUG - send check: checked
+[bridge] 2022-08-23 12:20:31,414 - ERROR - likecoin send error. txid: 0x105829c46cc904bb14f23aef9ef69834d79d69fff5a3522fb0c7e4980aaaf973
+[bridge] 2022-08-23 12:20:31,414 - ERROR - likecoin send error. tx info: {'status': 'failure', 'message': "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"}
+[bridge] 2022-08-23 12:21:00,116 - DEBUG - evm txid: checked
+[bridge] 2022-08-23 12:21:00,119 - DEBUG - send check: checked
+[bridge] 2022-08-23 12:21:13,515 - INFO - likecoin send success. txid: EEEE262B84B0512BC37BB101044E17A556463DBE09325D2E4AAC19CD2E50978F
+[bridge] 2022-08-23 12:22:48,370 - DEBUG - evm txid: checked
+[bridge] 2022-08-23 12:22:48,373 - DEBUG - send check: checked
+[bridge] 2022-08-23 12:22:53,187 - INFO - likecoin send success. txid: F5FECBDF5EC2D2BE8AA07A718613117B87DB0057CE2728D699459BD0A1489416
+[bridge] 2022-08-23 12:26:20,569 - DEBUG - evm txid: checked

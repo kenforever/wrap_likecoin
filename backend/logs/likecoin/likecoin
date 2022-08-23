@@ -1,0 +1,19 @@
+[likecoin] 2022-08-23 10:44:15,152 - INFO - ekil send: txid: E09FDEA2CBC75D11068242D2922708FD4B9E79FEDEB6D76CCA778ACFD025774B
+[likecoin] 2022-08-23 10:44:15,153 - INFO - ekil send: recipient: cosmos1vlcvna3aq06s7ezk7408mdm95y6seqz0p3k2s8
+[likecoin] 2022-08-23 10:44:15,154 - INFO - ekil send: amount: 10000000000
+[likecoin] 2022-08-23 10:44:15,155 - INFO - ekil send: fee: 500000000
+[likecoin] 2022-08-23 10:50:28,993 - INFO - ekil send: txid: 41525CC32DC4D364C10648130DAFC3DE4378E4E4137DED9CCFCBC8C749C1228D
+[likecoin] 2022-08-23 10:50:28,994 - INFO - ekil send: recipient: cosmos1vlcvna3aq06s7ezk7408mdm95y6seqz0p3k2s8
+[likecoin] 2022-08-23 10:50:28,994 - INFO - ekil send: amount: 9500000000
+[likecoin] 2022-08-23 10:50:28,995 - INFO - ekil send: fee: 500000000
+[likecoin] 2022-08-23 11:30:59,575 - ERROR - likecoin rpc error.
+[likecoin] 2022-08-23 12:19:10,849 - ERROR - likecoin rpc error.
+[likecoin] 2022-08-23 12:20:31,414 - ERROR - ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[likecoin] 2022-08-23 12:21:13,513 - INFO - ekil send: txid: EEEE262B84B0512BC37BB101044E17A556463DBE09325D2E4AAC19CD2E50978F
+[likecoin] 2022-08-23 12:21:13,514 - INFO - ekil send: recipient: cosmos1vlcvna3aq06s7ezk7408mdm95y6seqz0p3k2s8
+[likecoin] 2022-08-23 12:21:13,514 - INFO - ekil send: amount: 9500000000
+[likecoin] 2022-08-23 12:21:13,514 - INFO - ekil send: fee: 500000000
+[likecoin] 2022-08-23 12:22:53,184 - INFO - ekil send: txid: F5FECBDF5EC2D2BE8AA07A718613117B87DB0057CE2728D699459BD0A1489416
+[likecoin] 2022-08-23 12:22:53,185 - INFO - ekil send: recipient: cosmos1vlcvna3aq06s7ezk7408mdm95y6seqz0p3k2s8
+[likecoin] 2022-08-23 12:22:53,186 - INFO - ekil send: amount: 9500000000
+[likecoin] 2022-08-23 12:22:53,187 - INFO - ekil send: fee: 500000000
